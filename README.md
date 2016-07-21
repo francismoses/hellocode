@@ -1,2 +1,3 @@
 # hellocode
 i am new to github..eager to learn ...
+thing is interesting ..learning how to delete and pull req in creating projects
