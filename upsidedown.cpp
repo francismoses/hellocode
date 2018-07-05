@@ -2,8 +2,9 @@
 using namespace std;
 int main()
 {
-	//lets find how the github works with a additon branch
- 
+
+ //let me add these comments to the master_copy of the remote origin
+
  //using these . variables just to pull and check changes are reflected.
 int rows,i,j;
 cin>>rows;
