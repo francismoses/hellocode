@@ -3,7 +3,10 @@ using namespace std;
 int main()
 {
 
- //let me add these comments to the master_copy of the remote origin
+ //let me add these comments to the master_copy of the remote origin..
+	int a=30;
+	int b = 40;
+	cout<<a+b;
 
  //using these . variables just to pull and check changes are reflected.
 int rows,i,j;
